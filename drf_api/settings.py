@@ -64,7 +64,7 @@ ALLOWED_HOSTS = [
     '8000-alelodato-drfapi-m4d2c5wl6ib.ws-eu118.gitpod.io',
     'localhost', 
     '127.0.0.1', 
-    'djangorest-project.herokuapp.com'
+    'djangorest-project-0664e33c3cb4.herokuapp.com'
 ]
 
 
