@@ -61,7 +61,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 DEBUG = 'DEV' in os.environ
 
 ALLOWED_HOSTS = [
-    os.environ.get('ALLOWED_HOST'),
+    'djangorest-project-0664e33c3cb4.herokuapp.com',
     'localhost', 
     '127.0.0.1', 
 ]
